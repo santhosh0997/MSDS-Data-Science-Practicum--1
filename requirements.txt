@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+sentence-transformers
+nltk
+textstat
+transformers
+torch    
+joblib
+numpy
+
