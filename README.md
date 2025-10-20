@@ -3,11 +3,23 @@
 ## All data files for this project are available at:
 https://drive.google.com/drive/folders/14C4BT7mpbZNT29ydpMsPIjrT7KcvzVlx?usp=sharing
 ### Accessing the code:
-"complete_code_analysis.ipynb" is the complete analysis for the project.
-
-To run the streamlit use:
-
-streamlit run streamlitapp.py
+1) sample data is "sample_data_for_analysis" and all large data files are provided on the drive with link attached below.
+2) Data features are the findings and data preparedfor our analysis
+3) All TF-IDF models are availavle on TF_IDF Models
+4) ipynb files are available under code section:
+      a)Data Scarpping.ipynb is for scrapping the data.
+   
+      b) data Merging,ipynb is for merging public data with scarpped data
+   
+      c) Data cleaning.ipynb for cleaning data and make it ready for analysis
+   
+      d) "complete_code_analysis.ipynb" is the complete analysis for the project.
+   
+      e)To run the streamlit use:
+   
+            streamlit run streamlitapp.py
+   
+6) Artifacts has all final models and model parameters.
 
 ## 1. Introduction
 In a world where we are overwhelmed by artificial voices, the question is, are we able to trust what we read?
